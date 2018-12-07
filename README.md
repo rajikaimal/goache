@@ -6,4 +6,4 @@ Tiny in memory cache in Go lang
 
 # License
 
-MIT © [rajika](https://github.com/rajikaimal)
+MIT © [rajikaimal](https://github.com/rajikaimal)
