@@ -1,4 +1,4 @@
-# goache
+# kioku
 
 Tiny in memory cache in Go lang
 
